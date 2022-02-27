@@ -1,0 +1,148 @@
+.container{
+    display: flex;
+    margin: auto;
+    width: 1200px;
+    height: 5312,36px;
+}
+
+.main{
+    width: 767px;
+    padding: 10px 50px 30px 0;
+}
+
+.main1 h1{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.main3 a{
+    color: black;
+}
+.right{
+    width: 342px;
+    height: 2081,02px;
+}
+.main_right{
+    width: 262px;
+    height: 2020,72px;
+    display: block;
+}
+.main_right img{
+    width: 262;
+    height: 103,488;
+}
+
+.main_right1{
+    margin-bottom: 30px;
+    size: 60%;
+}
+.main_right2{
+    margin-bottom: 30px;
+    width: 290px;
+}
+.main_right3{
+    margin-bottom: 30px;
+}
+.main_right4{
+    margin-bottom: 30px;
+}
+.main_right5{
+    margin-bottom: 30px;
+}
+.main_right6{
+    margin-bottom: 30px;
+}
+.main_right6 a{
+    color: black;
+}
+.form-1{
+    width: 70%;
+    margin: auto;
+}
+input[type="text"],
+input[type="email"],
+input[type="number"],
+textarea,
+select{
+  width: 100%;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 20px;
+}
+.submit{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #FFC307;
+}
+
+.navbar{
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.dropdown-menu{
+    display: none;
+}
+
+.navbar-nav a:active {color: blue}
+
+.navbar-nav a:hover{color:blue}
+
+.nav-item:hover .dropdown-menu{
+    display: block;
+}
+
+.main_bottom{
+    background-color: #2F319E;
+    padding: 40px 0 50px 0;
+    width: 1519px;
+    height: 490,7px;
+    display: block;
+}
+
+.main_bottom0{
+    width: 1519px;
+    height: 400,7px ;
+    padding: 5%;
+    min-height: 150px;
+    min-width: auto;
+}
+.main_bottom1{
+    width: 1499px;
+    height: 380,7px ;
+    padding: 1em;
+    min-height: auto;
+    min-width: auto;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.main_bottom1 a{
+    color: white;
+    text-decoration: none;
+}
+.main_bottom1 h2{
+    color: white;
+    font-size: 20px;
+}
+.bottom1{
+    width: 400px;
+}
+
+.bottom2{
+    width: 500px;
+    height: 360,7px;
+    padding: 0 30px 0 50px;
+    min-height: auto;
+    min-width: auto;
+}
+.bottom3{
+    width: 370,825px;
+    height: 360,7px;
+    padding: 10px 50px 20px;
+    min-height: auto;
+    min-width: auto;
+}
+
+
